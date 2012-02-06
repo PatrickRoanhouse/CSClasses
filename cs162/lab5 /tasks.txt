@@ -1,0 +1,6 @@
+A class;foo;foo
+B101;drink soda;6/2/2011
+CS143;foo;5/31/2011
+Coda;Music;hold
+Door;fix door;02/24/2011
+Z110;zoom;6/1/2011

@@ -1,0 +1,5 @@
+class101;study class book;yesterday
+sp11;study cats;3/24/11
+cs123;todo;1/1/11
+close;bar;1/1/11
+Foo;bar;tomorrow
