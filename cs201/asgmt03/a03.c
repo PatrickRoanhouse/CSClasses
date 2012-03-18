@@ -45,6 +45,7 @@ int main(int argc, char *argv[])
 
     printf("child: counted %d characters\n", charCount);
 
+    close(comm[0]);
     return 0;
   }
 
@@ -75,6 +76,7 @@ int main(int argc, char *argv[])
     }
 
     waitpid(cpid, &status, 0); // Reap the child
+
     return 0;
   }
 }
